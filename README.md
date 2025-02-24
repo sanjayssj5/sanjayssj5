@@ -1,6 +1,6 @@
-# 🤧 Sanjay Shivakumar Manohar - sudo developer
+#  Sanjay Shivakumar Manohar - sudo developer
 
-> "There is no cloud. It's just someone else's computer." – Linux Philosophy  
+> "There is no cloud. It's just another computer."
 
 👨‍💻 **Full-Stack | AI/ML | Cloud**  
 🎯 Passionate about **Clojure**, **Java**, **Python**, and **LLMs**  
@@ -19,7 +19,7 @@ Languages: Java, Python, Clojure, JavaScript
 Cloud: AWS, GCP, Docker
 ML/DL: TensorFlow, OpenCV, Hugging Face, Scikit-Learn
 Backend: Spring Boot, Node.js, Lein-Ring
-Frontend: React.js, HTMX, Hiccup
+Frontend: React.js, HTMX, Hiccup, Bootstrap
 Data Engineering: Kafka, ETL, Tableau
 ```
 
