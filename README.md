@@ -1,7 +1,8 @@
 #  Sanjay Shivakumar Manohar - sudo developer
 
 <p align ='center'>
-<img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThnNzl0c2J4bW1hNzNzaXhvYTRpamZxN3pwaDJxMmR6MjBxZnZ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" width="300" height="200" />
+<img src= 
+  "https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif" width="500" height="350" />
 </p>
 
 ```bash
