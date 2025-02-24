@@ -67,4 +67,4 @@
 ```bash
 > sudo shutdown -h now
 ```
-![](https://pin.it/3pq35oFxE){ width="400" height="200" style="display: block; margin: 0 auto" }
+![](https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif?cid=790b7611p3zzfizirp7gr2m8ejq74picjsdqp5bvev940n93&ep=v1_gifs_search&rid=giphy.gif){ width="400" height="200" style="display: block; margin: 0 auto" }
