@@ -1,7 +1,7 @@
 #  Sanjay Shivakumar Manohar - sudo developer
 
 ```bash
-> "cat msg.txt"
+> cat msg.txt
 ```
 There is no cloud. It's just someone else's computer
 
