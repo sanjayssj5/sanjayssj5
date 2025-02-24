@@ -1,4 +1,8 @@
-![image](https://github.com/user-attachments/assets/8ae1f020-ec85-48f1-af3b-2f2207ebeb57)#  Sanjay Shivakumar Manohar - sudo developer
+#  Sanjay Shivakumar Manohar - sudo developer
+
+<p>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+</p>
 
 ```bash
 > cat about.txt
