@@ -1,13 +1,13 @@
 #  Sanjay Shivakumar Manohar - sudo developer
 
 ```bash
-> cat msg.txt
+> cat about.txt
 ```
 There is no cloud. It's just someone else's computer
 
 
 👨‍💻 **Full-Stack | AI | Cloud**  
-🎯 Passionate about **Python**,**Clojure**,**AI** applications  
+🎯 Passionate about **Python**,**Java** &**AI** applications  
 🚀 Automating workflows, building scalable applications, and optimizing performance  
 
 ## 🌐 Socials:
