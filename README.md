@@ -3,9 +3,9 @@
 ```bash
 > cat about.txt
 ```
-There is no cloud. It's just someone else's computer
+"There is no cloud. It's just someone else's computer"
 
-
+---
 👨‍💻 **Full-Stack | AI | Cloud**  
 🎯 Passionate about **Python**,**Java** & **AI** applications  
 🚀 Automating workflows, building scalable applications, and optimizing performance  
@@ -16,10 +16,10 @@ There is no cloud. It's just someone else's computer
 ```bash
 > ls ~/projects
 ```
-📌 **[WorkInvoice]** – Migrated frontend from React.js to vanilla HTML with HTMX , Hiccup. Code changes in back end with Lein-Ring. 
-📌 **[Timelapse Lab]** – Construction site object detection with SOTA methods & custom IFC viewer
-📌 **[Smarticle]** - Customised smart PDF viewer for scholars
-📌 **[Truck roam]** - Monster truck driving simulator developed in Vulkan with procedural terrain generation and rigidbody physics.
+- 📌 **[WorkInvoice]** – Migrated frontend from React.js to vanilla HTML with HTMX , Hiccup. Code changes in back end with Lein-Ring. 
+- 📌 **[Timelapse Lab]** – Construction site object detection with SOTA methods & custom IFC viewer
+- 📌 **[Smarticle]** - Customised smart PDF viewer for scholars
+- 📌 **[Truck roam]** - Monster truck driving simulator developed in Vulkan with procedural terrain generation and rigidbody physics.
 
 ---
 
