@@ -1,15 +1,13 @@
 #  Sanjay Shivakumar Manohar - sudo developer
 
 <p align ='center'>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm81ZnUzNWhhcnZzM2VvaGdraHVtczBsZTJpZWFqN2NoeDUxeTU2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4OV1bLOIWwIXRxpXlN/giphy.gif" width="250" height="170" />
+<img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThnNzl0c2J4bW1hNzNzaXhvYTRpamZxN3pwaDJxMmR6MjBxZnZ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" width="300" height="200" />
 </p>
 
 ```bash
 > cat about.txt
 ```
-"There is no cloud. It's just someone else's computer"
 
----
 👨‍💻 **Full-Stack | AI | Cloud**  
 🎯 Passionate about **Python**,**Java** & **AI** applications  
 🚀 Automating workflows, building scalable applications, and optimizing performance  
@@ -71,4 +69,7 @@
 ```bash
 > sudo shutdown -h now
 ```
-![](https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif?cid=790b7611p3zzfizirp7gr2m8ejq74picjsdqp5bvev940n93&ep=v1_gifs_search&rid=giphy.gif){ width="400" height="200" style="display: block; margin: 0 auto" }
+
+<p align ='center'>
+<img src= "https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="300" height="200" />
+</p>
