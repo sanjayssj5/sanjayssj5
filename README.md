@@ -1,4 +1,4 @@
-#  Sanjay Shivakumar Manohar - sudo developer
+![image](https://github.com/user-attachments/assets/8ae1f020-ec85-48f1-af3b-2f2207ebeb57)#  Sanjay Shivakumar Manohar - sudo developer
 
 ```bash
 > cat about.txt
@@ -67,3 +67,4 @@
 ```bash
 > sudo shutdown -h now
 ```
+![](https://pin.it/3pq35oFxE){ width="400" height="200" style="display: block; margin: 0 auto" }
