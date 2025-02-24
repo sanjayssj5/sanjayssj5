@@ -6,22 +6,6 @@
 🎯 Passionate about **Clojure**, **Java**, **Python**, and **LLMs**  
 🚀 Automating workflows, building scalable applications, and optimizing performance  
 
-```bash
-> neofetch
-```
-```
-sanjayssj5@github
-------------------
-OS: Linux (Debian-based)
-Shell: Bash/Zsh
-Editor: Neovim / VS Code
-Languages: Java, Python, Clojure, JavaScript
-Cloud: AWS, GCP, Docker
-ML/DL: TensorFlow, OpenCV, Hugging Face, Scikit-Learn
-Backend: Spring Boot, Node.js, Lein-Ring
-Frontend: React.js, HTMX, Hiccup, Bootstrap
-Data Engineering: Kafka, ETL, Tableau
-```
 
 ## 🛠️ My Stack
 ```bash
@@ -40,9 +24,9 @@ Data Engineering: Kafka, ETL, Tableau
 ```bash
 > ls ~/projects
 ```
-📌 **[WorkInvoice](https://github.com/sanjayssj5/workinvoice)** – Migrated frontend from React.js to HTMX & Hiccup  
-📌 **[Timelapse Lab](https://github.com/sanjayssj5/timelapselab)** – Built deep learning models for anomaly detection  
-📌 **[TCS Cloud Monitoring](https://github.com/sanjayssj5/tcs-cloud-mon)** – Automated monitoring of cloud apps  
+📌 **[WorkInvoice]** – Migrated frontend from React.js to HTMX & Hiccup  
+📌 **[Timelapse Lab]** – Construction site object detection with SOTA methods
+📌 **[TCS Cloud Monitoring]** – Automated monitoring of cloud apps  
 
 ---
 
